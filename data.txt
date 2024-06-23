@@ -1,0 +1,88 @@
+{
+  "result": [
+    {
+      "status": "active",
+      "name": {
+        "first": "Viviane",
+        "middle": "Blake",
+        "last": "Hahn-Wehner"
+      },
+      "username": "Viviane-Hahn-Wehner",
+      "password": "6KlrSYXtjdHsMJu",
+      "emails": [
+        "Llewellyn35@example.com",
+        "Delores_Barrows92@example.com"
+      ],
+      "phoneNumber": "342-886-6288 x36455",
+      "location": {
+        "street": "40190 Bayer Hills",
+        "city": "Watsicastead",
+        "state": "Idaho",
+        "country": "Nepal",
+        "zip": "66624",
+        "coordinates": {
+          "latitude": -72.1562,
+          "longitude": 156.8627
+        }
+      },
+      "website": "https://slimy-temporary.info",
+      "domain": "weekly-effectiveness.name",
+      "job": {
+        "title": "Senior Communications Representative",
+        "descriptor": "Chief",
+        "area": "Security",
+        "type": "Facilitator",
+        "company": "Stroman Inc"
+      },
+      "creditCard": {
+        "number": "3460-235631-25421",
+        "cvv": "446",
+        "issuer": "american_express"
+      },
+      "uuid": "c6e7e8c8-312b-4d16-88f1-cd3628ee45e2",
+      "objectId": "6677b298ac8ff3d937cfa211"
+    },
+    {
+      "status": "active",
+      "name": {
+        "first": "Erick",
+        "middle": "Bailey",
+        "last": "Jones"
+      },
+      "username": "Erick-Jones",
+      "password": "fXsucChbkrm6jO_",
+      "emails": [
+        "Maximo_Boehm@example.com",
+        "Garrison73@example.com"
+      ],
+      "phoneNumber": "850-970-3085 x5389",
+      "location": {
+        "street": "63716 Wilderman Route",
+        "city": "Ceres",
+        "state": "Arizona",
+        "country": "Saint Vincent and the Grenadines",
+        "zip": "99750-1620",
+        "coordinates": {
+          "latitude": -2.8438,
+          "longitude": 60.8666
+        }
+      },
+      "website": "https://unwieldy-vinegar.com",
+      "domain": "glaring-jumpsuit.biz",
+      "job": {
+        "title": "Dynamic Creative Assistant",
+        "descriptor": "Investor",
+        "area": "Interactions",
+        "type": "Planner",
+        "company": "Ebert, Hegmann and Durgan"
+      },
+      "creditCard": {
+        "number": "5211-3075-2728-5467",
+        "cvv": "732",
+        "issuer": "jcb"
+      },
+      "uuid": "b8d2f83c-567f-48fc-a49a-d507c056401d",
+      "objectId": "6677b298ac8ff3d937cfa212"
+    }
+  ]
+}
